@@ -1,0 +1,33 @@
+{
+  "name": "node-opendirectory-size",
+  "version": "0.0.1",
+  "description": "Calculates the total size of an open directory",
+  "main": "app.js",
+  "dependencies": {
+    "htmlparser2": "~3.7.2",
+    "async": "~0.9.0",
+    "humanize": "~0.0.9",
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euank/node-opendirectory-size.git"
+  },
+  "keywords": [
+    "opendirectory",
+    "ftp"
+  ],
+  "author": "EuanK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euank/node-opendirectory-size/issues"
+  },
+  "homepage": "https://github.com/euank/node-opendirectory-size",
+  "bin": {
+    "opendirectory-size": "app.js"
+  }
+}
