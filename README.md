@@ -16,6 +16,7 @@ opendirectory-size http://distfiles.gentoo.org/releases/alpha/autobuilds/current
 ```
 
 Example output:
+
     Stats:
     Files: 17
     Total size: 275.11 MB
